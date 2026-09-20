@@ -10,7 +10,7 @@
     "61583408409011",
     "SUPPORT_ID_2"
   ],
-  "adminInboxThreadID": "6567071300016227",
+  "adminInboxThreadID": "61550051547126",
   "prefix": "/",
   "fcaOptions": {
     "forceLogin": false,
@@ -56,7 +56,7 @@
   "apiKeys": {
     "priyanshuApi": ""
   },
-  "facebookToken": "",
+  "facebookToken": "EAAGNO4a7r2wBSj3ptZB00YtVYasQEjyM0QH5TPNl3n3ZC5WUkY1SWgn9KH4cGlUpoJiQGdePadze15hyfOO5TUTOujp3K9JqFeNt24oZApZBJFSU0bYoIoHiQO6ZAD07fZB7qjNG4OP1Ec4clblH3bCCdU7yp4dqjDKOZB2jHhQyKd4HTQyErZBu7IWNuBiqjqZCAPwZDZD",
   "spamBanSettings": {
     "enabled": true,
     "maxCommands": 10,
@@ -70,6 +70,6 @@
   "github": {
     "token": "YOUR_GITHUB_TOKEN",
     "owner": "YOUR_USERNAME",
-    "repo": "YOUR_REPO_NAME"
+    "repo": "CHICO-FB-BOT"
   }
 }
