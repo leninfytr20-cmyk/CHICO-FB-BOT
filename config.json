@@ -1,5 +1,5 @@
 {
-  "mongoURI": "mongodb+srv://leninfytr20_db_user:<db_password>@cluster0.sv446cy.mongodb.net/?appName=Cluster0",
+  "mongoURI": "mongodb+srv://<db_username>:7SxE9xcKYHleRCBY@cluster0.qrdztpa.mongodb.net/?appName=Cluster0",
   "appstateSyncMinutes": 10,
   "ownerID": "61583408409011",
   "adminIDs": [
