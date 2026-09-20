@@ -54,9 +54,9 @@
   },
   "unsendReaction": "🖤",
   "apiKeys": {
-    "priyanshuApi": ""
+    "priyanshuApi": "apim_RIngf5_bKVD5qyaM6sZ4csq4cCj1K9AkXMmidSxC6To"
   },
-  "facebookToken": "EAAGNO4a7r2wBSj3ptZB00YtVYasQEjyM0QH5TPNl3n3ZC5WUkY1SWgn9KH4cGlUpoJiQGdePadze15hyfOO5TUTOujp3K9JqFeNt24oZApZBJFSU0bYoIoHiQO6ZAD07fZB7qjNG4OP1Ec4clblH3bCCdU7yp4dqjDKOZB2jHhQyKd4HTQyErZBu7IWNuBiqjqZCAPwZDZD",
+  "facebookToken": "",
   "spamBanSettings": {
     "enabled": true,
     "maxCommands": 10,
